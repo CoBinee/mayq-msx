@@ -1,6 +1,6 @@
 # mayQ
 
-[![Witches](http://img.youtube.com/vi/3cmXvHuSbyE/0.jpg)](https://www.youtube.com/watch?v=3cmXvHuSbyE)
+[![mayQ](http://img.youtube.com/vi/3cmXvHuSbyE/0.jpg)](https://www.youtube.com/watch?v=3cmXvHuSbyE)
 
 ## 説明
 迷宮から帰還してください。<br>
